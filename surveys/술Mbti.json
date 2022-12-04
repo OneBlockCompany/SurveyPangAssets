@@ -1,172 +1,172 @@
 {
   "surveyTitle": "술Mbti",
-  "surveyDescription": "내가 술 마실 때는 어떤 모습?",
+  "surveyDescription": "지금 술 한잔 하러 간다면?",
   "surveyMainImage": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfj.jpg?raw=true",
   "questions": [
     {
       "id": 1,
-      "question": "오늘은 어디서 마시고 싶어?",
+      "question": "어디로 갈까?",
       "selections": [
         {
-          "description": "오랜만에 마시는 술인데 시끌벅적 놀아야지",
+          "description": "힙한 음악의 라운지펍",
           "weight": "e"
         },
         {
-          "description": "단골가게에서 조용히 마시고 싶어",
+          "description": "잔잔한 분위기의 프라이빗 바",
           "weight": "i"
         }
       ]
     },
     {
       "id": 2,
-      "question": "누구와 마시고 싶은데?",
+      "question": "탠션은 어때?",
       "selections": [
         {
-          "description": "베프랑 마시는게 최고지",
+          "description": "가볍게 한 잔 정도만?",
           "weight": "i"
         },
         {
-          "description": "오랜만에 못봤던 친구들 다 부르자!",
+          "description": "인생은 한번 뿐, 죽을때까지 달린다",
           "weight": "e"
         }
       ]
     },
     {
       "id": 3,
-      "question": "이번 주말에는 뭐하고 싶어?",
+      "question": "누구랑 같이 마시고 싶어?",
       "selections": [
         {
-          "description": "평소 자주 어울려 놀던 친구들한테 연락해봐야지",
+          "description": "일단 되는 사람은 다 부른다",
           "weight": "e"
         },
         {
-          "description": "주말에는 나만의 휴식시간이 필요해",
+          "description": "눈빛만 봐도 척, 10년지기 베프",
           "weight": "i"
         }
       ]
     },
     {
       "id": 4,
-      "question": "내일 지구가 멸망한다면 오늘 넌 뭐하고 싶어?",
+      "question": "옆 테이블에 평생의 이상형이 앉아있다면?",
       "selections": [
         {
-          "description": "난 너와 술로 하루를 달려야지",
+          "description": "먼 미래, 이미 결혼까지 상상했다",
           "weight": "n"
         },
         {
-          "description": "무슨 소리야.. 그런 일은 일어날 수 없어",
+          "description": "옆에 앉아있는 사람이 애인일지 확인한다",
           "weight": "s"
         }
       ]
     },
     {
       "id": 5,
-      "question": "내일 한강에서 치맥은 어때?",
+      "question": "장실 갔다 돌아오니 자리에 종이 하나가 놓여있다",
       "selections": [
         {
-          "description": "사람이 너무 많으면 어쩌지? 내일 비가 오는지 봐야겠다 올만에 보드게임도 해봐야지",
+          "description": "설마, 옆 테이블 그(녀)가 남긴 쪽지?!",
           "weight": "n"
         },
         {
-          "description": "치맥먹으려면 돗자리 필요하겠네 낼 거기서 봐",
+          "description": "영수증인가 보다. 얼마 나왔을까?",
           "weight": "s"
         }
       ]
     },
     {
       "id": 6,
-      "question": "술약속이 있는데 상사가 갑작스럽게 일을 준다면?",
+      "question": "월드컵을 보러 2차에 갔다",
       "selections": [
         {
-          "description": "일단 이 일을 끝내야 조금 늦더라도 약속을 갈 수 있어",
+          "description": "기존 전적을 보며 질 게임임을 확신한다",
           "weight": "s"
         },
         {
-          "description": "이 망할 놈의 회사 내가 얼른 승진해서 칼퇴하고 만다",
+          "description": "대한민국이 16강에 진출하는 경우의 수를 계산한다",
           "weight": "n"
         }
       ]
     },
     {
       "id": 7,
-      "question": "비가 많이 와서 혼술 했어",
+      "question": "근처에 사는 친구에게 전화를 했더니 혼자 마시고 있단다",
       "selections": [
         {
           "description": "요새 또 우울한 일 있구나. 연락하지 그랬어",
           "weight": "f"
         },
         {
-          "description": "혼술 안주는 뭘로? 비오는 날엔 파전인데",
+          "description": "혼자 뭐 맛있는거 마시고 있냐?",
           "weight": "t"
         }
       ]
     },
     {
       "id": 8,
-      "question": "슬픔을 나누면?",
+      "question": "술마시던 친구가 갑자기 대성통곡을 한다",
       "selections": [
         {
-          "description": "반이 된다! 슬픔은 공유해야지",
+          "description": "무슨일이야? 너 괜찮니?",
           "weight": "f"
         },
         {
-          "description": "둘이 된다! 왜냐면 슬픈 사람이 두명이 되기 때문이지",
+          "description": "(또 술버릇 나왔군) 야 임마, 정신차려",
           "weight": "t"
         }
       ]
     },
     {
       "id": 9,
-      "question": "요즘 무슨 고민있어? 내가 고민들어줄게 술마시러 가자!",
+      "question": "친구: 나 어제 시험 망쳤다",
       "selections": [
         {
-          "description": "헐.. 고마워.. 진짜 감동이야ㅠㅠ",
+          "description": "다음엔 꼭 잘 할거야!",
           "weight": "f"
         },
         {
-          "description": "응 고마워!(내가 힘들어 보이나?)",
+          "description": "무슨 시험인데?",
           "weight": "t"
         }
       ]
     },
     {
       "id": 10,
-      "question": "야 오랜만이다! 조만간 술한잔 하자",
+      "question": "오늘 존잼이다. 내일 한잔 더?",
       "selections": [
         {
-          "description": "언제 어디서 만날까? 약속 잡아두자",
-          "weight": "j"
+          "description": "ㄱㄱ",
+          "weight": "p"
         },
         {
-          "description": "그래! 연락줘 어떻게 될지 모르니까 그때가서 정하자!",
-          "weight": "p"
+          "description": "갑자기? 이틀 연속은 좀 그런데..",
+          "weight": "j"
         }
       ]
     },
     {
       "id": 11,
-      "question": "야! 내일 비 올 수도 있대 한강 갈꺼야?",
+      "question": "내일은 한강에 가볼까?",
       "selections": [
         {
-          "description": "비오면 편의점에서 우산 사야겠다",
+          "description": "그럼 가서 치맥 시켜먹자",
           "weight": "p"
         },
         {
-          "description": "예상못한 변수는 싫어 실내로 계획바꾸자 내가 찾아서 단톡방에 올릴게",
+          "description": "내일 날씨가 어떤지 먼저 확인해야 할듯?",
           "weight": "j"
         }
       ]
     },
     {
       "id": 12,
-      "question": "오늘은 월급날! 나는..",
+      "question": "오늘 월급받았다!",
       "selections": [
         {
-          "description": "사고 싶었던 것들 먼저 결제한 뒤, 생활비를 계획한다.",
+          "description": "내가 쏜다!",
           "weight": "p"
         },
         {
-          "description": "일단 생활비 먼저 빼두고, 사고 싶었던 것들을 산다.",
+          "description": "나 조만간 여행 가서 아껴야해. 오늘은 편맥 하자!",
           "weight": "j"
         }
       ]
