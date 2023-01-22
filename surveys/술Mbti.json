@@ -1,5 +1,5 @@
 {
-  "surveyTitle": "술 M B T I",
+  "surveyTitle": "술 B T I",
   "surveyDescription": "술 마실때 나의 모습은?",
   "surveyMainImage": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfj.jpg?raw=true",
   "questions": [
@@ -174,82 +174,82 @@
   ],
   "results": {
     "estp": {
-      "title": "분위기메이커, ESTP",
+      "title": "살리고~ 살리고~ 분위기 메이커, ESTP",
       "description": "열정이 넘치고 즐거운 것을 좋아하는 당신은 매사에 자신감이 넘치고 여러 그룹의 분위기 메이커 역할을 해요. 하지만 다혈질 성향이 간혹 있어 화나면 물불 가리지 않고, 솔직한 말투로 상대방에게 상처를 줄 때도 있어요. 술자리에서는 그 열정이 배가 되어 2차, 3차 술자리까지 친구들을 다 데려가려는 '프로연행러'의 모습을 가지기도 하죠. 간혹 술을 너무 많이 마시면 술자리에서 실수를 해 주변에 피해를 줄 수도 있으니, 차분한 성격의 'ISTJ' 친구를 만나 자유로운 얘기를 해보는 것을 추천해요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfj.jpg?raw=true"
     },
     "enfj": {
-      "title": "술주정 컨트롤러",
-      "description": "당신은 '술주정 컨트롤러'입니다. 평소 책임감이 강하고 사람들을 좋아하는 당신은 술을 마시면 주변 사람의 술주정을 다 받아주고 위로해줍니다. 하지만 가끔 주변 사람들을 다 챙기고 술자리가 끝났을 때 정작 자신을 챙기지 못해 회의감이 들 때가 있어요. 고민이 많은 오늘, 책임감을 내려놓고 자신의 고민을 말해보는 것은 어떨까요? 마음이 따뜻하고 책임감이 강한 'INFP'를 만나 자신의 고민을 얘기해보세요.",
+      "title": "I'm your 에인졀, ENFJ",
+      "description": "평소 책임감이 강하고 사람들을 좋아하는 당신은 술을 마시면 주변 사람의 술주정을 다 받아주고 위로해줍니다. 하지만 가끔 주변 사람들을 다 챙기고 술자리가 끝났을 때 정작 자신을 챙기지 못해 회의감이 들 때가 있어요. 고민이 많은 오늘, 책임감을 내려놓고 자신의 고민을 말해보는 것은 어떨까요? 마음이 따뜻하고 책임감이 강한 'INFP' 친구를 만나 자신의 고민을 얘기해보세요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfj.jpg?raw=true"
     },
     "enfp": {
-      "title": "폭풍 칭찬러",
+      "title": "감정폭발! 폭풍 칭찬러, ENFP",
       "description": "당신은 '폭풍 칭찬러'입니다. 술을 마시면 친구에 대한 사랑이 폭발하며 그동안 친구에게 서운했던, 고마웠던 것들을 계속 말하면서 애정표현합니다. 평소에 긍정적이고 낙천적인 당신은 술을 마시면 감정기복이 심해지므로 오늘은 다른 사람의 말을 잘 들어주고 차분한 성격의 'INFJ' 친구와 술을 마셔보세요",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfp.jpg?raw=true"
     },
     "entj": {
-      "title": "알코올 기억상실증",
+      "title": "알코올 치매가 의심되는, ENTJ",
       "description": "평소 남이 잔소리하는 것을 싫어하고 냉혈한 성격의 당신은 새로운 사람들을 만나는 것을 좋아하지만 남일에 관심이 없어 너무 깊이 만나지는 않습니다. 그런 당신이 술을 많이 마시면 평소 속으로 생각했던 아이디어들을 남발하고 다음날 기억 못하는 모습을 보입니다. 또한 고민을 해결해주기 위해 현실적으로 얘기하다 보니 주변 사람들에게 상처를 줄 때가 있습니다. 현실적인 조언이 필요하다면, 오늘 'INTP'를 만나보세요. 토론을 굉장히 좋아하는 친구가 당신의 고민이나 아이디어들에 대해 논리적으로 얘기해 줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/entj.jpg?raw=true"
     },
     "entp": {
-      "title": "끝까지 달리는거야",
+      "title": "끝까지 달리는거야, ENTP",
       "description": "사람들과 어울리는 것을 좋아하고 개방적인 당신은 관찰력이 좋아 다른 사람의 감정을 잘 파악합니다. 말을 잘해서 인기가 많지만 불만을 바로바로 말하고 직설적인 대화 표현으로 인해 주변 사람들에게 상처를 주기도 합니다. 술을 마시면 친화력이 배가 되어 술자리 끝까지 달리지만 누군가 시비를 건다면 싸움까지 가는 당신에게는 'INTJ' 친구가 필요하겠군요. 차분한 성격의 'INTJ' 친구가 당신을 진정시켜줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/entp.jpg?raw=true"
     },
     "esfj": {
-      "title": "편의점 전용 지갑",
+      "title": "편의점 VVIP, ESFJ",
       "description": "마음이 따뜻하고 사회성이 풍부한 당신은 눈치가 빠른 편이라 상대방이 무엇을 좋아하는지 바로 알아채요. 그렇다보니 누군가 도움을 요청한다면 망설이지 않고 도와주기도 하죠. 그런 당신이 술을 마시면 사람을 좋아해 친구들 수 만큼 편의점에 가서 아이스크림이나 초코우유를 사오곤 합니다. 남을 배려하는 점은 좋지만 너무 잦은 배려가 오히려 본인에게 상처로 다가올 수 있어요. 오늘만큼은 내려놓고 술자리에서 편하게 'ISFP' 친구와 얘기를 해보는 건 어떨까요? 눈치가 빠른 'ISFP'친구가 당신을 배려하고 얘기를 들어줄꺼에요",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/esfj.jpg?raw=true"
     },
     "esfp": {
-      "title": "흥 부자 핵인싸",
-      "description": "자유로운 것을 좋아하고 활동적인 당신은 사람들에게 인기가 많고 주목을 많이 받아요. 또한 노는 것을 좋아해서 혼자 일하는 것을 싫어하고 궁금한 이슈는 꼭 찾아봐야 직성이 풀리는 타입이에요. 이에 술자리에서도 텐션이 높아 여러 대화 주제에 중심이 되기도 하고 취하면 목소리가 커지고 흥을 주제하지 못하죠. 너무 과한 흥은 오히려 친구들에게 부담이 될 수도 있어요 오늘은 'ISFJ'친구를 만나 그동안 말하지 못했던 고민을 털어보는 건 어떨까요? 신중한 성격을 가진 'ISFJ'를 만나 고민에 대해 얘기해보면 피해왔던 갈등을 해결해 볼 수도 있어요.",
+      "title": "자유로운 핵인싸, ESFP",
+      "description": "자유로운 것을 좋아하고 활동적인 당신은 사람들에게 인기가 많고 주목을 많이 받아요. 또한, 노는 것을 좋아해서 혼자 일하는 것을 싫어하고 궁금한 이슈는 꼭 찾아봐야 직성이 풀리는 타입이에요. 이에 술자리에서도 텐션이 높아 여러 대화 주제에 중심이 되기도 하고 취하면 목소리가 커지고 흥을 주제하지 못하죠. 너무 과한 흥은 오히려 친구들에게 부담이 될 수도 있어요 오늘은 'ISFJ'친구를 만나 그동안 말하지 못했던 고민을 털어보는 건 어떨까요? 신중한 성격을 가진 'ISFJ'를 만나 고민에 대해 얘기해보면 피해왔던 갈등을 해결해 볼 수도 있어요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/esfp.jpg?raw=true"
     },
     "estj": {
-      "title": "계산만 하는 로봇",
+      "title": "1/N 계산봇, ESTJ",
       "description": "당신은 목표를 설정하면 엄청난 집중력으로 업무를 완벽하게 해내는 깔끔한 성격을 가지고 있네요. 완벽한 목표 수행을 좋아하기에 타인에게 지적받는 것을 싫어하고 자기애가 넘쳐 남에게 지는 것 또한 싫어하는 모습을 가지고 있어요. 이에 평소에도 어떤 방법이 효율적인지 계산하는 당신은 술자리에서도 가게 분위기, 술, 음식 가격 등을 다 따져봐야만 해요. 오늘만큼은 '완벽'에서 벗어나 새로운 것에 도전해보는 건 어떨까요? 즉흥적이고 창의적인 'ISTP' 친구가 당신에게 새로운 흥미를 가져다 줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/estj.jpg?raw=true"
     },
     "infj": {
-      "title": "일방통행 대화맨",
+      "title": "혼자 그만 떠들어! INFJ",
       "description": "당신은 '일방통행 대화맨'입니다. 평소에 다른 사람의 말을 잘 들어주는 당신은 언어 능력이 뛰어나 예쁜 말을 잘합니다. 타인의 감정을 잘 읽지만 자신의 얘기를 잘 하지 못하는 당신이 술을 마시면 자신이 관심있는 대화주제로 몇 시간도 얘기하는 모습을 보입니다. 오늘 당신에게는 여러 대화 주제도 다 관심을 가지고 같이 얘기를 할 수 있는 'ENFP' 친구가 필요하겠네요",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/infj.jpg?raw=true"
     },
     "infp": {
-      "title": "애정표현 사랑꾼",
+      "title": "수줍은 귀요미, INFP",
       "description": "당신은 평소에 혼자 있는 게 제일 편하지만 가끔 혼자 있는 걸 외로워합니다. 마음이 여린 편이라 작은 거에도 상처를 잘 받는 당신은 술을 마시면 주변 사람들에게 애교를 부리며 많은 애정표현을 하는 '애정표현 사랑꾼'이네요. 허나 술을 너무 많이 마시면 마음 속에 있는 상처를 다 말하고 다음날 후회를 할 수도 있어요. 고민이 많은 오늘, 주변 사람의 고민을 다 받아주고 위로해줄 수 있는 'ENFJ' 친구를 만나보는 건 어떨까요?",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/infp.jpg?raw=true"
     },
     "intj": {
-      "title": "시끄러운 곳은 놉",
+      "title": "술자리는 고문이야... INTJ",
       "description": "당신은 완벽주의 성향으로 자신의 신념과 가치관이 뚜렷합니다. 여러 상황을 객관적으로 판단하고 책임감이 강해 본인의 능력에 대한 자신감이 넘치고 문제를 잘 해결합니다. 하지만 사적인 얘기를 하는 시간이 낭비라고 생각하기에 사람들이 많은 술자리를 좋아하지 않고 술자리에 집중을 하지 못해요. 혼자 갖고 있는 고민을 풀기엔 친구들과의 소통만한 게 없죠. 오늘만큼은 친화력이 좋고 활동적인 'ENTP'친구를 만나 서로의 얘기를 들어보는 시간을 가져보는 것이 좋겠네요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/intj.jpg?raw=true"
     },
     "intp": {
-      "title": "꾸벅꾸벅 잠자는 공주",
+      "title": "잠자는 공주님, INTP",
       "description": "자발적 아웃사이더인 당신은 평소 조용하고 과묵하지만 자신의 관심 분야에 대해서는 말을 잘해요. 주변 사람들의 말에 감정적으로 공감하지 않고 이성을 중요시하는 당신은 민폐부리는 걸 싫어해서 괜찮다고 술을 막 마시다가 갑자기 잠을 자곤 하죠. 오늘은 어떤 얘기에 리액션이 아닌 논리적으로 토론하는 것을 좋아하는 당신이 술자리에서 편안하게 자신의 얘기를 할 수 있도록 'ENTJ' 친구를 만나보는 것은 어떨까요?",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/intp.jpg?raw=true"
     },
     "isfj": {
-      "title": "내가 오늘 일일 경찰",
+      "title": "마무리는 내가~ ISFJ",
       "description": "책임감이 강하고 눈치가 빠른 당신은 배려가 몸에 배어 있어 다른 사람들을 잘 배려해줘요. 또한 신중한 성격을 가지고 있어 속으로 많이 생각해보고 자신의 의견을 얘기하는 성향을 가지고 있어요. 그렇다 보니 술자리에서 술취한 사람들을 다 책임지고 택시 태워보내고 자신이 마지막에 가려고 해요. 오늘은 남들의 눈치를 보지 않고 자신이 하고 싶은 것을 하는 건 어떨까요? 여러 분야에 늘 관심이 많은 'ESFP' 친구가 당신이 하지 못했던 얘기에 대해 많은 공감을 해줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/isfj.jpg?raw=true"
     },
     "isfp": {
-      "title": "친절한 프로 게을러",
+      "title": "이불 밖은 위험해! ISFP",
       "description": "눈치가 빠르고 다정한 당신은 친구들이 필요한 것이 무엇인지 빠르게 알아채고 이를 배려해주는 모습을 보여요. 하지만 밖보다 집을 더 좋아하는 당신은 귀찮음 끝판왕으로 누군가와의 약속이 취소되면 속으로 매우 기뻐하고 술자리에서도 갑자기 텐션이 확 떨어지는 모습을 보여요. 평소에 조용하고 자신의 얘기를 하지 않는 당신, 오늘만큼은 'ESFJ' 친구를 만나 조금씩 마음의 문을 열어보는 건 어떨까요? 'ESFJ' 친구가 당신의 고민을 공감하고 배려해줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/isfp.jpg?raw=true"
     },
     "istj": {
-      "title": "연락두절 신데렐라",
+      "title": "연락두절 신데렐라, ISTJ",
       "description": "평소에 낯가림이 심하고 차분한 성격의 당신은 조용하면서도 책임감이 강해 많은 업무에 철저하여 사람들에게 많은 신뢰를 받고 있어요. 허나 냉정하고 원리 우선주의인 당신은 융통성이 없어 사람들과의 대인관계가 좁은 편이고 사람들에게 상처를 줄 때도 있어요. 술자리에서도 가까운 사람과 신나게 얘기하다가도 자신이 정한 시간이 있으면 갑자기 사라지는 모습을 보이기도 해요. 오늘은 'ESTP' 친구와 함께 원리, 원칙에서 벗어나 스트레스를 다 풀어보는 시간을 가지는 건 어떨까요? 열정이 넘친 'ESTP'친구가 당신의 스트레스를 해결해줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/istj.jpg?raw=true"
     },
     "istp": {
-      "title": "프로 판단러",
+      "title": "넌씨눈 솔로몬, ISTP",
       "description": "즉흥적이고 새로운 것을 좋아하는 당신은 매번 다른 일에 도전하는 경향이 있어요. 또한 독립적인 성향이 강해 다른 사람에게 간섭받는 것을 싫어하기도 해요. 하지만 자신의 가치관에 따라 모든 것을 판단하는 경향이 있어 누가 뭐라고 하던 상대방을 나의 관점에 맞춰 판단하기도 해요. 때론 본인의 판단으로 인한 표현이 남에게 상처를 줄 수도 있기에 'ESTJ' 친구를 만나 술자리에서 얘기해보는 건 어떨까요? 'ESTJ'친구가 객관적인 판단에 따른 조언을 해줄꺼에요.",
       "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/istp.jpg?raw=true"
     }
